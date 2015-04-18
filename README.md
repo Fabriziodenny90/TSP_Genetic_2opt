@@ -17,4 +17,3 @@ Authors:
 * Fabrizio Demaria
 * Samia Khalid
 * Vito Labalestra
-* Giuseppe Rospo
